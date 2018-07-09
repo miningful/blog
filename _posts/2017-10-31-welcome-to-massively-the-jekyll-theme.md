@@ -1,16 +1,13 @@
 ---
 layout: post
-title:  "Welcome 
-to miningful page,"
+title:  "Welcome to miningful"
 date:   2018-07-09
-excerpt: "hope you can find something meaningful in here"
+excerpt: "hope you can find something meaningful in my page"
 image: "/images/KakaoTalk_20180709_154653591.jpg"
 ---
 
 ## Why I opend blog
 To review daily learning and share with people who loves coding
-
-Then enter: ```bundle exec jekyll serve```. You can now access your new Jekyll site from [http://127.0.0.1:4000/](http://127.0.0.1:4000/). Have fun exploring your new site!
 
 ## Features
 ### Auto-Generating Sitemap
