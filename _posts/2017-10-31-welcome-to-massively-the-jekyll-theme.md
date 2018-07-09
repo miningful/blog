@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  "Welcome /nto miningful page,"
+title:  "Welcome 
+to miningful page,"
 date:   2018-07-09
 excerpt: "hope you can find something meaningful in here"
 image: "/images/KakaoTalk_20180709_154653591.jpg"
