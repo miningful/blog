@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to miningful page,"
 date:   2018-07-09
 excerpt: "hope you can find something meaningful in here"
-image: "/images/pic02.jpg"
+image: "/images/KakaoTalk_20180709_154653591.jpg"
 ---
 
 ## Why I opend blog
